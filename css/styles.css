@@ -8,3 +8,7 @@
 .title {
     font-family: littlepaws;
 }
+
+.cat-image {
+    max-width: 300px;
+}
